@@ -1,0 +1,7 @@
+D:\VS2010\Project\TouchGame\TouchGame\TouchGameContent\obj\x86\Release\ResolveAssemblyReference.cache
+F:\TouchGame\TouchGame\TouchGameContent\obj\x86\Release\ResolveAssemblyReference.cache
+E:\TouchGame\TouchGame\TouchGameContent\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\xiebc\Desktop\TouchGame\TouchGame\TouchGameContent\obj\x86\Release\TouchGameContent.contentprojResolveAssemblyReference.cache
+C:\Users\uu\Desktop\TouchGame\TouchGame\TouchGame\TouchGameContent\obj\x86\Release\ResolveAssemblyReference.cache
+E:\TouchGame\TouchGame\TouchGame\TouchGameContent\obj\x86\Release\ResolveAssemblyReference.cache
+E:\TouchGame(2.18)\TouchGame\TouchGame\TouchGameContent\obj\x86\Release\ResolveAssemblyReference.cache

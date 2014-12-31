@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="TouchGame.Properties" GeneratedClassName="DragAndDrop">
+  <Profiles />
+  <Settings>
+    <Setting Name="basePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Resources\DragAndDrop</Value>
+    </Setting>
+    <Setting Name="questionFilePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">question</Value>
+    </Setting>
+    <Setting Name="otherTextureFilePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">otherTexture</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
